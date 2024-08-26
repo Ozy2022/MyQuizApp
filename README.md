@@ -1,4 +1,3 @@
-MyQuizApp
 MyQuizApp is a simple console-based quiz application developed using Object-Oriented Programming (OOP) principles in C#. The application is designed to demonstrate the core concepts of OOP such as encapsulation, inheritance, and polymorphism, while providing a fun and interactive quiz experience.
 
 Features
