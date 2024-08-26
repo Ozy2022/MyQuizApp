@@ -23,4 +23,5 @@ Clone the repository and run the MyQuizApp solution in Visual Studio or your pre
 Simple output
 
 
-![simple output](https://github.com/user-attachments/assets/a86979f7-141b-4b52-b3f7-5829211e59ea)
+![simpleOutput](https://github.com/user-attachments/assets/3eb7d30d-441d-4311-a38f-784bb8d40da7)
+
