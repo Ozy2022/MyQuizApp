@@ -20,7 +20,7 @@ Getting Started
 Clone the repository and run the MyQuizApp solution in Visual Studio or your preferred C# development environment. The quiz runs in the console, providing an interactive experience.
 
 
-Simple OutPut
+Simple output
 
 
 ![simple output](https://github.com/user-attachments/assets/a86979f7-141b-4b52-b3f7-5829211e59ea)
